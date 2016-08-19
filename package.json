@@ -1,0 +1,23 @@
+{
+  "name": "HashyT",
+  "description": "Node Module for utilizing Hash Tables",
+  "version": "0.0.1",
+  "contributors": [
+    "Alex Aldana <alexandern.aldana@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": "alex-ald/HashyT",
+  "keywords": [
+    "hashyt",
+    "hashtable",
+    "fast-storing"
+  ],
+  "dependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "storage/",
+    "lib/"
+  ]
+}
